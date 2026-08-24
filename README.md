@@ -1,14 +1,17 @@
-### こんにちは
+# Hello.
 
-大学生です。生産性・自動化ツールや自然言語処理、デジタルアーカイブに関心を持ちながら開発しています。
+I am an undergraduate student engaging research on the application of technology on humanities and society.
 
-**興味のある分野**
-- NLP / オントロジー / デジタルアーカイブ
-- 生産性・自動化ツール
+## Areas I'm interested in 
+- NLP
+- Ontology
+- Digital archives and digital humanities
 - OSS
 
-**使用技術**
-Python, R, SQL, JavaScript, HTML/CSS, 機械学習・AI, Web開発
+## Skills
+- Python: machine learning and AI
+- R and SQL: for data science and statistical analysis
+- Javascript, HTML/CSS: to develop websites
 
-**リンク**
-- 個人サイト: 準備中(公開後にリンクを追加予定)
+## External Links
+- My CV: (Preparing)
