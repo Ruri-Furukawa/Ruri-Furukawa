@@ -8,4 +8,4 @@ I am an undergraduate student engaging research on the application of technology
 - Javascript, HTML/CSS: to develop websites
 
 ## External Links
-- My CV: (Preparing)
+- [My CV](https://ruri-furukawa.github.io/)
