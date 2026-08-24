@@ -1,4 +1,4 @@
-# Hello.
+# 💫Hello.
 
 I am an undergraduate student engaging research on the application of technology on humanities and society. Interested in NLP, ontology, digital archives, digital humanities, and OSS. 
 
