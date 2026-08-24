@@ -1,12 +1,6 @@
 # Hello.
 
-I am an undergraduate student engaging research on the application of technology on humanities and society.
-
-## Areas I'm interested in 
-- NLP
-- Ontology
-- Digital archives and digital humanities
-- OSS
+I am an undergraduate student engaging research on the application of technology on humanities and society. Interested in NLP, ontology, digital archives, digital humanities, and OSS. 
 
 ## Skills
 - Python: machine learning and AI
